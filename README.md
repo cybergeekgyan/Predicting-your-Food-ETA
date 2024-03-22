@@ -7,10 +7,14 @@ Food delivery is a courier service in which a restaurant, store, or independent 
 ## Evaluation Metrics
 
 Evaluation metric is `r2_score`
+
 ### Resources
 
 - https://blog.zomato.com/predicting-fpt-optimally
 - https://blog.zomato.com/food-preparation-time
+- https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da
+- https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9
+- https://bytes.swiggy.com/predicting-food-delivery-time-at-cart-cda23a84ba63
 
 ### Pre-requisites
 
